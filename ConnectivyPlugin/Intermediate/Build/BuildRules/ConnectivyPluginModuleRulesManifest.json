@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\ConnectivyPlugin\\Source\\ConnectivyPlugin\\ConnectivyPlugin.Build.cs",
+		"D:\\Projects\\ConnectivyPlugin\\Source\\ConnectivyPlugin.Target.cs",
+		"D:\\Projects\\ConnectivyPlugin\\Source\\ConnectivyPluginEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.0"
+}

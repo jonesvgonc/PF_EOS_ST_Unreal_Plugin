@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ConnectivyPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projects\ConnectivyPlugin\Intermediate\Build\Win64\x64\ConnectivyPluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Projects\ConnectivyPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ConnectivyPlugin\ConnectivyPlugin.cpp.obj"
+"D:\Projects\ConnectivyPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ConnectivyPlugin\Default.rc2.res"
+/OUT:"D:\Projects\ConnectivyPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ConnectivyPlugin\UnrealEditor-ConnectivyPlugin.lib"

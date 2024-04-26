@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ConnectivyPlugin",
+			"Path": "..\\Source\\ConnectivyPlugin.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ConnectivyPluginEditor",
+			"Path": "..\\Source\\ConnectivyPluginEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

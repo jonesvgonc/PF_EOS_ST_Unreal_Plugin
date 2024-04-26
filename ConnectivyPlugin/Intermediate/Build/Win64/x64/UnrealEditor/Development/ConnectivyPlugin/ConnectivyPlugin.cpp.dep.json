@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\connectivyplugin\\source\\connectivyplugin\\connectivyplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\connectivyplugin\\intermediate\\build\\win64\\x64\\connectivyplugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\connectivyplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\connectivyplugin\\definitions.connectivyplugin.h",
+            "d:\\projects\\connectivyplugin\\source\\connectivyplugin\\connectivyplugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
